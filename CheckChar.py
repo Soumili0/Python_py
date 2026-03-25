@@ -1,5 +1,4 @@
-#Write a program to find whether a given username contains less than 10 
-# characters or not.
+#Write a program to find whether a given username contains less than 10 characters or not.
 # Input username
 username = input("Enter a username: ")
 # Check length of username
